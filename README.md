@@ -5,6 +5,11 @@ https://www.radioenge.com.br/produto/modulo-loramesh/
 I also downloaded all this documments here.
 Below, the links from the site mentioned above.
 
+## Tutorial
+If you dont know what this repository is talking about ... go to this link: 
+https://elcereza.com/lora-mesh-da-radioenge-tutorial-completo/
+
+
 ## Downloads
 
 - [Arquivo de atualização de firmware (LoRaMESH_v3r27_294E)](https://www.radioenge.com.br/storage/2021/08/LoRaMESH_v3r27_294E.zip)
