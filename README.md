@@ -1,5 +1,5 @@
 # RadioEnge-LoraMesh-Module
-This is the oficial documentation of the Radionenge's LoRa Mesh module descripted in their site:
+This is the oficial documentation of the Radionenge's LoRa Mesh module described in their site:
 https://www.radioenge.com.br/produto/modulo-loramesh/
 I also downloaded all this documments here.
 Below, the links from the site mentioned above.
